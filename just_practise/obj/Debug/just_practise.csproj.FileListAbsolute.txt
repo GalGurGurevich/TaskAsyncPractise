@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\just_practise\just_practise\bin\Debug\just_practise.exe.config
+C:\Users\User\source\repos\just_practise\just_practise\bin\Debug\just_practise.exe
+C:\Users\User\source\repos\just_practise\just_practise\bin\Debug\just_practise.pdb
+C:\Users\User\source\repos\just_practise\just_practise\obj\Debug\just_practise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\just_practise\just_practise\obj\Debug\just_practise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\just_practise\just_practise\obj\Debug\just_practise.exe
+C:\Users\User\source\repos\just_practise\just_practise\obj\Debug\just_practise.pdb
